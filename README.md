@@ -1,3 +1,5 @@
-# odin-recipes
+# Recipes Project
 
-Currently, this projects goal is to solidify my skills in writing HTML. 
+In this project, I display links, images, ordered and unorderer lists. 
+
+The actual content is of my favorite recipes!
