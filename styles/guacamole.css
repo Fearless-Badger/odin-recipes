@@ -1,0 +1,22 @@
+* {
+    background-color: tan;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+#title {
+    color: blue;
+    font-weight: 800px;
+    text-align: center;
+}
+
+h3 {
+    font-size: 24px;
+    color:blueviolet;
+}
+
+ul,
+ol,
+#desc,
+a {
+    font-weight: 600;
+}

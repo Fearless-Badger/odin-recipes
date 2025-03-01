@@ -1,0 +1,16 @@
+* {
+    font-family: 'Courier New', Courier, monospace;
+    background-color: tan;
+}
+
+h1 {
+    color: red;
+    font-size: 32px;
+    text-align: center;
+}
+
+ul li {
+    color: blue;
+    list-style: circle;
+    font-size: 20px;
+}
