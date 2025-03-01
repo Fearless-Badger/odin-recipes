@@ -1,0 +1,21 @@
+* {
+    font-family: 'Courier New', Courier, monospace;
+    background-color: tan;
+}
+
+h1 {
+    color: blue;
+    text-align: center;
+}
+
+h3 {
+    font-size:24px ;
+    color: blueviolet;
+}
+
+#desc,
+ul,
+ol,
+a {
+    font-weight: 600;
+}

@@ -4,13 +4,14 @@
 }
 
 h1 {
-    color: red;
+    color: blue;
     font-size: 32px;
     text-align: center;
 }
 
-ul li {
+ul li a {
     color: blue;
     list-style: circle;
     font-size: 20px;
+    font-weight: 800px;
 }
