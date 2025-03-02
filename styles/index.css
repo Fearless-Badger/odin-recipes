@@ -3,6 +3,10 @@
     background-color: tan;
 }
 
+p {
+    font-weight: 600;
+}
+
 h1 {
     color: blue;
     font-size: 32px;
