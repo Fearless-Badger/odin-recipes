@@ -19,3 +19,15 @@ ul li a {
     font-size: 20px;
     font-weight: 800px;
 }
+
+.list {
+    background-color: black;
+    padding: 20px;
+}
+
+.list-element {
+    display: inline-block;
+    padding: 8px;
+    margin: 8px auto;
+    border: blue solid 4px;
+}
