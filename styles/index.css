@@ -5,6 +5,7 @@
 
 p {
     font-weight: 600;
+    background-color: pink;
 }
 
 h1 {
@@ -20,14 +21,20 @@ ul li a {
     font-weight: 800px;
 }
 
-.list {
-    background-color: black;
-    padding: 20px;
-}
 
 .list-element {
     display: inline-block;
+}
+
+.list-element a {
     padding: 8px;
     margin: 8px auto;
     border: blue solid 4px;
+}
+
+.para-pad {
+    background-color: pink;
+    padding: 10px;
+    margin: 10px;
+    border: 10px solid black;
 }
